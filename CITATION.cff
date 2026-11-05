@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this research framework, please cite the associated paper."
+title: "MLP-Transformers: Multi-Layer Perceptron coordinated Transformers for Time Series Forecasting"
+type: software
+repository-code: "https://github.com/Kisen7/MLP-Transformer"
+authors:
+  - family-names: Gu
+    given-names: Shuhuai
+  - family-names: Zhang
+    given-names: Junyou
+  - family-names: Peng
+    given-names: Yutong
+  - family-names: Ye
+    given-names: Liqi
+  - family-names: Wang
+    given-names: Jing
+  - family-names: Xi
+    given-names: Qi
+preferred-citation:
+  type: conference-paper
+  title: "MLP-Transformers: Multi-Layer Perceptron coordinated Transformers for Time Series Forecasting"
+  authors:
+    - family-names: Gu
+      given-names: Shuhuai
+    - family-names: Zhang
+      given-names: Junyou
+    - family-names: Peng
+      given-names: Yutong
+    - family-names: Ye
+      given-names: Liqi
+    - family-names: Wang
+      given-names: Jing
+    - family-names: Xi
+      given-names: Qi
+  year: 2024
+  doi: "10.1109/SGES63808.2024.10824143"
+  start: 161
+  end: 166
